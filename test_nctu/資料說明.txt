@@ -1,0 +1,11 @@
+normal_test.csv
+
+standard columns 
+100gal chichi earthquake
+
+=======================================================
+abnormal_test.csv
+
+weakened columns in the first storey
+100gal chichi earthquake
+
